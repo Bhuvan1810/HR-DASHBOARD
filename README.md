@@ -45,7 +45,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/HR-Analytics-Dashboard.git
+git clone https://github.com/Bhuvan1810/HR-Analytics-Dashboard.git
 Open HR_Analytics.pbix in Power BI Desktop.
 
 Load or update the data source if needed.
