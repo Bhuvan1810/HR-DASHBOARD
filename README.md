@@ -34,5 +34,5 @@ Job satisfaction averages 2.73 across all departments.
 bash
 Copy
 Edit
-git clone https://github.com/Bhuvan1810/HR_DASHBOARD.pbix
+git clone (https://github.com/Bhuvan1810/HR-DASHBOARD/blob/cdae42d6f51431e35605c0a5bf04011380494080/HR%20DASHBOARD.pbix)
 Open HR_Analytics.pbix in Power BI Desktop.
