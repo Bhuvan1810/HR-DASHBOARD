@@ -30,6 +30,8 @@ Life Sciences and Medical are the most common education fields.
 Salary tends to increase with age and experience.
 
 Job satisfaction averages 2.73 across all departments.
+Dashboard (https://github.com/Bhuvan1810/HR-DASHBOARD/blob/b13f3824cc82af2d65f5fdeaf667c67128b081d4/Screenshot%202025-08-12%20123305.png)
+Dashboard (https://github.com/Bhuvan1810/HR-DASHBOARD/blob/b13f3824cc82af2d65f5fdeaf667c67128b081d4/Screenshot%202025-08-12%20123143.png)
 
 bash
 Copy
