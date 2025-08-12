@@ -31,19 +31,8 @@ Salary tends to increase with age and experience.
 
 Job satisfaction averages 2.73 across all departments.
 
-📂 Repository Structure
-Copy
-Edit
-📦 HR-Analytics-Dashboard
- ┣ 📜 README.md
- ┣ 📜 HR_Analytics.pbix
- ┣ 📜 HR_Data.xlsx
- ┗ 📜 dashboard_image.png
-🚀 How to Use
-Clone the repository
-
 bash
 Copy
 Edit
-git clone https://github.com/Bhuvan1810/HR DASHBOARD.pbix
+git clone https://github.com/Bhuvan1810/HR_DASHBOARD.pbix
 Open HR_Analytics.pbix in Power BI Desktop.
